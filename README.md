@@ -6,7 +6,7 @@
 
 [blog](https://ting-xin.github.io/notebook/) - [twitter](https://twitter.com/ONLYWTX)
 
-![Ting-xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ting-xin)
+![Ting-xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ting-xin&theme=dark&show_icons=true)
 <!--
 **Ting-xin/Ting-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
