@@ -1,4 +1,4 @@
-### Hi there, I'm Tian 👋
+### Hi there, I'm Rudy 👋
 
 - :baby_chick: A rookie just starting out,
 
